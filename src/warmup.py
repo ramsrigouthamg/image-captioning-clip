@@ -1,7 +1,7 @@
 # In this file, we define load_model
 # It runs once at server startup to load the model to a GPU
 
-# In this example: A Huggingface BERT model
+## In this example: A Huggingface BERT model
 
 # from transformers import T5ForConditionalGeneration
 import torch
